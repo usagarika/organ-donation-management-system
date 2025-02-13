@@ -33,18 +33,3 @@ c
 2. Import the database schema using database.sql file. <br>
 3. Configure the database connection in config.php. <br>
 4. Deploy the project on a PHP-enabled web server. <br>
-
-
-
-<h2>Contact</h2>
-If you have any questions or suggestions regarding the project, please feel free to reach out to us:
-
-Email: upparisagarika2004@gmail.com
-LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/uppari-sagarika-a2a72925b)https://www.linkedin.com/in/uppari-sagarika-a2a72925b/
-
-
-
-=======
-# organ-donation-management-system
-organ donation is used to help the who are in need of organs .By making it online it is easy to access the organs fastlyy
->>>>>>> c118a9b55fa962d210a93ef005f51383fb16bf8c
