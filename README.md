@@ -13,7 +13,6 @@ Organ Donation is a modern management system that aims to connect hospitals and 
 
 
 <h2>Features</h2>
-c
   <li>Email Verification: The system implements email verification to ensure the authenticity of donors and hospitals, creating a secure and reliable platform.</li>
   <li>Session and Cookies: To enhance user experience and security, the system leverages the use of sessions and cookies to manage user data and preferences.</li>
   <li>Advanced Search Functionality: The platform provides advanced search functionality using filters to help hospitals find donors based on specific criteria such as 
