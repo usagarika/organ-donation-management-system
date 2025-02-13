@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Organ-Donation-Management-System
 
 <img src= "https://github.com/Al-Shafi-Github/Organ-Donation-Management-System/assets/68460013/0862ba26-c16f-462f-824a-1d8564592bf6" alt= "Index">
