@@ -39,8 +39,8 @@ c
 <h2>Contact</h2>
 If you have any questions or suggestions regarding the project, please feel free to reach out to us:
 
-Email: abdullah.shafi1191@gmail.com
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abdullah-al-shafi200/)https://www.linkedin.com/in/abdullah-al-shafi200/
+Email: upparisagarika2004@gmail.com
+LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/uppari-sagarika-a2a72925b)https://www.linkedin.com/in/uppari-sagarika-a2a72925b/
 
 
 
